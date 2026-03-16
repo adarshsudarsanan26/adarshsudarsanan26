@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="[https://instagram.com/YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/_iamshifter/?__pwa=1#)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
