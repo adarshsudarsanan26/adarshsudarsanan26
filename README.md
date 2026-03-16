@@ -25,7 +25,9 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_Trivandrum,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:adarshaadhi2255@gmail.com"><img src="https://img.shields.io/badge/📧_adarshaadhi2255@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:adarshaadhi2255@gmail.com">
+      <img src="https://img.shields.io/badge/📧_adarshaadhi2255@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
     <img src="https://img.shields.io/badge/🎓_MCA_(IGNOU)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/💼_Open_to_Opportunities-1e1e2e?style=for-the-badge" />
   </p>
@@ -35,11 +37,15 @@
 <p align="left">
 
   <a href="https://github.com/adarshsudarsanan26">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/adarsh-bs-073265187/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
 </p>
