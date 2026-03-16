@@ -34,11 +34,11 @@
   
 <p align="left">
 
-  <a href="https://github.com/">
+  <a href="https://github.com/adarshsudarsanan26">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/adarsh-bs-073265187/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
